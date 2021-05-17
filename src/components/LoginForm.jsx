@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import axios from 'axios';
-import SignUp from './SignUp';
+// import SignUp from './SignUp';
 
 function LoginForm() {
 	const [username, setUsername] = useState('');
